@@ -37,8 +37,8 @@
 
 ## 📂 Project Structure
 /Task_13_Theme_Toggle
-├── index.html      # Main structure, CSS Variables, and Logic
-└── README.md       # Project documentation and details
+├── index.html      # Main structure, CSS Variables, and Logic                                                                                                                                                       
+└── README.md       # Project documentation and details                                                                                                                         
 
 
 ---
